@@ -19,4 +19,16 @@ If these do not work, there's an error specific to your system.
 
 Create a pull request from a new branch and add to this file:
 * Your findings 
+
+The "View Recipe" button is not functioning at all
+After clicking on any image related to recipe, Page stays static and not navigating to recipe page (If there any).
+Load more button is not working as expected.
+After Navigating to Privacy Page, If user tries to click on Privacy/terms icon again. It will show 404 error.
+After Navigating to terms Page, If user tries to click on  Privacy/terms icon again. It will show 404 error.
+There is no Home/navigational Button after landing on Privacy and Tems Page
+The "privacy" policy spelling's first word is not capital and instead of "Privacy policy" it is only "Privacy"
+The "terms" spelling's first word is not capital
+The heading is just "Privacy" as it doesn't define if it's a policy or something else.
+
+
 * Loom URL from the upwork post.
